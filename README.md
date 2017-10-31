@@ -15,9 +15,9 @@
 ## Nice things ##
 * Zeplin (help with UI design - https://zeplin.io/)
 * Visual Studio Code (Free text editor) (this is my favorite but atom and sublime text3 are both really good too)
-* Git Kraken (Git GUI) (I don't use this but it can help you learn git. Just try and use git in terminal/iterm then if you break * everything hit me up or use this)
-* Specticles (This is to help with window resizing, fucking brillaint - https://www.spectacleapp.com/)
-* Postman (Helps when you need to make API calls)
+* Git Kraken (Git GUI) (I don't use this but it can help you learn git. Just try and use git in terminal/iterm then if you break everything use this)
+* Specticles (This is to help with window resizing, brillaint - https://www.spectacleapp.com/)
+* Postman (Helps when you need to make API calls / Look at an endpoints data)
 * Alfred (Spotlight replacement - https://www.alfredapp.com/)
 
 ## IDEs #
@@ -26,7 +26,7 @@
 * PyCharm (Python IDE, good for learning python but you can just do python in Visual Studio Code and compile in command line)
 * XCode (Swift / Objective C iOS development) (Can get the AppCode extension from JetBrains too to help learn)
 * Android Studio (Android Development)
-
+* Tons of these, just personal preference
 
 Definately more that im forgetting.
 
