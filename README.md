@@ -28,6 +28,4 @@
 * Android Studio (Android Development)
 * Tons of these, just personal preference
 
-Definately more that im forgetting.
-
-Some of this has some setup hit me up if you need any help and use HOMEBREW for everything possible!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Definately more that I'm forgetting.
